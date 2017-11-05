@@ -40,7 +40,7 @@ object Constants {
   /** Distance from the planets edge at which new ships are created */
   val SPAWN_RADIUS = 2.0
 
-  val MAX_CORRECTIONS = 3
+  val MAX_CORRECTIONS = 10
   ////////////////////////////////////////////////////////////////////////
   // Implementation-specific constants
 
